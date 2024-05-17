@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|c:\\study\\window-form-learning\\student_management_system\\student_management_system\\student_management_system\\database\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\database\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|c:\\study\\window-form-learning\\student_management_system\\student_management_system\\student_management_system\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|c:\\study\\window-form-learning\\student_management_system\\student_management_system\\student_management_system\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|c:\\study\\window-form-learning\\student_management_system\\student_management_system\\student_management_system\\student_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\student_management_system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|c:\\study\\window-form-learning\\student_management_system\\student_management_system\\student_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\student_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\student_management_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA72E40-CF72-49E0-A973-864FB7467A1E}|Student_Management_System\\Student_Management_System.csproj|solutionrelative:student_management_system\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Database\\DBConnect.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\Database\\DBConnect.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Database\\DBConnect.cs",
+              "RelativeToolTip": "Student_Management_System\\Database\\DBConnect.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:19:56.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegisterForm.cs [Design]",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\RegisterForm.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\RegisterForm.cs [Design]",
+              "RelativeToolTip": "Student_Management_System\\RegisterForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:13:08.968Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterForm.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\RegisterForm.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\RegisterForm.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\RegisterForm.cs",
+              "RelativeToolTip": "Student_Management_System\\RegisterForm.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwBgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T15:11:24.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student_Management_System",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Student_Management_System.csproj",
+              "RelativeDocumentMoniker": "Student_Management_System\\Student_Management_System.csproj",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Student_Management_System.csproj",
+              "RelativeToolTip": "Student_Management_System\\Student_Management_System.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-17T14:51:26.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\Form1.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.cs [Design]",
+              "RelativeToolTip": "Student_Management_System\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:27:59.756Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\Form1.Designer.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.Designer.cs",
+              "RelativeToolTip": "Student_Management_System\\Form1.Designer.cs",
+              "ViewState": "AQIAAPABAAAAAAAAAAAMwPEBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-17T14:27:36.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.cs",
+              "RelativeDocumentMoniker": "Student_Management_System\\Form1.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Form1.cs",
+              "RelativeToolTip": "Student_Management_System\\Form1.cs",
+              "ViewState": "AQIAADoAAAAAAAAAAAAawGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T07:35:41.643Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

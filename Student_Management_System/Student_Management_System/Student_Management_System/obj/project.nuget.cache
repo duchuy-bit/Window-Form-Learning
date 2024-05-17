@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "j+uMC5q8/0bWzjuy0xg0YcQ+up5+6hXkblEuggtC6GeCJeWl3ZRXMQBab8bFTkjeNBKq2WJvhPkyIXumu+uaNw==",
+  "success": true,
+  "projectFilePath": "C:\\Study\\Window-Form-Learning\\Student_Management_System\\Student_Management_System\\Student_Management_System\\Student_Management_System.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.codedom\\7.0.0\\system.codedom.7.0.0.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\system.management\\7.0.0\\system.management.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
