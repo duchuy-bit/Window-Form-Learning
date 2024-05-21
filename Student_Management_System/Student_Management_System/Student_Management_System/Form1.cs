@@ -1,3 +1,4 @@
+using Org.BouncyCastle.Pqc.Crypto.Frodo;
 using System.Xml.Serialization;
 
 namespace Student_Management_System
@@ -17,10 +18,16 @@ namespace Student_Management_System
 
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            label_total.Text = "Total Students : " + getTotalStudent();
+            label_male.Text = "Male : " + getTotalMale();
+            label_female.Text = "Female : " + getTotalFemale();
         }
 
         private void customizeDesign()
+        {
+            studentCount();
+        }
+        void studentCount()
         {
             panel_stdsubmenu.Visible = false;
             panel_scoresubmenu.Visible = false;
@@ -65,12 +72,12 @@ namespace Student_Management_System
         }
         private void button_registration_Click(object sender, EventArgs e)
         {
-
+            openChildForm(new RegisterForm());
         }
 
         private void button_manageStd_Click(object sender, EventArgs e)
         {
-
+            openChildForm(new ManageStudent());
         }
 
         private void button_statusStd_Click(object sender, EventArgs e)
@@ -139,6 +146,68 @@ namespace Student_Management_System
 
         #endregion
 
-        
+
+        //Show Register From Main Form
+        private Form activateFrom = null;
+        private void openChildForm(Form childForm)
+        {
+            if (activateFrom != null)
+            {
+                activateFrom.Close();
+            }
+
+            activateFrom = childForm;
+            childForm.TopLevel = false;
+            childForm.FormBorderStyle = FormBorderStyle.None;
+            childForm.Dock = DockStyle.Fill;
+            panel_main.Controls.Add(childForm);
+            panel_main.Tag = childForm;
+            childForm.BringToFront();
+            childForm.Show();
+        }
+
+        public string getTotalStudent()
+        {
+            StudentClass studentClass = new StudentClass();
+            return studentClass.exeCount("SELECT COUNT(*) FROM student");
+        }
+
+        public string getTotalMale()
+        {
+            StudentClass studentClass = new StudentClass();
+            return studentClass.exeCount("SELECT COUNT(*) FROM student where gender = 'Male' ");
+        }
+
+        public string getTotalFemale()
+        {
+            StudentClass studentClass = new StudentClass();
+            return studentClass.exeCount("SELECT COUNT(*) FROM student where gender = 'Female' ");
+        }
+
+        private void panel_logo_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+            showDashboard();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+            showDashboard();
+        }
+
+        void showDashboard()
+        {
+            if (activateFrom != null)
+            {
+                activateFrom.Close();
+            }
+
+            panel_main.Controls.Add(panel_cover);
+            studentCount();
+        }
     }
 }

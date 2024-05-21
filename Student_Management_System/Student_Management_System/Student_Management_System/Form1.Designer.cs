@@ -57,9 +57,9 @@
             label8 = new Label();
             label9 = new Label();
             comboBox1 = new ComboBox();
-            label7 = new Label();
-            label6 = new Label();
-            label5 = new Label();
+            label_female = new Label();
+            label_male = new Label();
+            label_total = new Label();
             panel1 = new Panel();
             pictureBox1 = new PictureBox();
             label_role = new Label();
@@ -97,7 +97,7 @@
             panel_slide.Dock = DockStyle.Left;
             panel_slide.Location = new Point(0, 0);
             panel_slide.Name = "panel_slide";
-            panel_slide.Size = new Size(200, 563);
+            panel_slide.Size = new Size(200, 561);
             panel_slide.TabIndex = 0;
             panel_slide.Paint += panel1_Paint;
             // 
@@ -385,6 +385,7 @@
             panel_logo.Name = "panel_logo";
             panel_logo.Size = new Size(183, 100);
             panel_logo.TabIndex = 1;
+            panel_logo.Paint += panel_logo_Paint;
             // 
             // label3
             // 
@@ -396,6 +397,7 @@
             label3.Size = new Size(95, 19);
             label3.TabIndex = 5;
             label3.Text = "Dev Panda";
+            label3.Click += label3_Click;
             // 
             // label2
             // 
@@ -408,6 +410,7 @@
             label2.TabIndex = 4;
             label2.Text = "DP";
             label2.TextAlign = ContentAlignment.MiddleCenter;
+            label2.Click += label2_Click;
             // 
             // panel_main
             // 
@@ -415,7 +418,7 @@
             panel_main.Dock = DockStyle.Fill;
             panel_main.Location = new Point(200, 0);
             panel_main.Name = "panel_main";
-            panel_main.Size = new Size(699, 563);
+            panel_main.Size = new Size(914, 561);
             panel_main.TabIndex = 2;
             // 
             // panel_cover
@@ -427,16 +430,16 @@
             panel_cover.Dock = DockStyle.Fill;
             panel_cover.Location = new Point(0, 0);
             panel_cover.Name = "panel_cover";
-            panel_cover.Size = new Size(699, 563);
+            panel_cover.Size = new Size(914, 561);
             panel_cover.TabIndex = 0;
             // 
             // pictureBox2
             // 
             pictureBox2.Anchor = AnchorStyles.None;
             pictureBox2.Image = Properties.Resources._class;
-            pictureBox2.Location = new Point(0, 120);
+            pictureBox2.Location = new Point(3, 126);
             pictureBox2.Name = "pictureBox2";
-            pictureBox2.Size = new Size(699, 363);
+            pictureBox2.Size = new Size(899, 339);
             pictureBox2.SizeMode = PictureBoxSizeMode.StretchImage;
             pictureBox2.TabIndex = 5;
             pictureBox2.TabStop = false;
@@ -448,13 +451,13 @@
             panel2.Controls.Add(label8);
             panel2.Controls.Add(label9);
             panel2.Controls.Add(comboBox1);
-            panel2.Controls.Add(label7);
-            panel2.Controls.Add(label6);
-            panel2.Controls.Add(label5);
+            panel2.Controls.Add(label_female);
+            panel2.Controls.Add(label_male);
+            panel2.Controls.Add(label_total);
             panel2.Dock = DockStyle.Bottom;
-            panel2.Location = new Point(0, 482);
+            panel2.Location = new Point(0, 480);
             panel2.Name = "panel2";
-            panel2.Size = new Size(699, 81);
+            panel2.Size = new Size(914, 81);
             panel2.TabIndex = 5;
             // 
             // label10
@@ -463,7 +466,7 @@
             label10.AutoSize = true;
             label10.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label10.ForeColor = Color.White;
-            label10.Location = new Point(336, 15);
+            label10.Location = new Point(551, 15);
             label10.Name = "label10";
             label10.Size = new Size(101, 21);
             label10.TabIndex = 7;
@@ -475,7 +478,7 @@
             label8.AutoSize = true;
             label8.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label8.ForeColor = Color.White;
-            label8.Location = new Point(589, 48);
+            label8.Location = new Point(804, 48);
             label8.Name = "label8";
             label8.Size = new Size(75, 21);
             label8.TabIndex = 6;
@@ -487,7 +490,7 @@
             label9.AutoSize = true;
             label9.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
             label9.ForeColor = Color.White;
-            label9.Location = new Point(481, 48);
+            label9.Location = new Point(696, 48);
             label9.Name = "label9";
             label9.Size = new Size(57, 21);
             label9.TabIndex = 5;
@@ -497,46 +500,46 @@
             // 
             comboBox1.Anchor = AnchorStyles.Bottom | AnchorStyles.Right;
             comboBox1.FormattingEnabled = true;
-            comboBox1.Location = new Point(481, 13);
+            comboBox1.Location = new Point(696, 13);
             comboBox1.Name = "comboBox1";
             comboBox1.Size = new Size(176, 23);
             comboBox1.TabIndex = 4;
             // 
-            // label7
+            // label_female
             // 
-            label7.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            label7.AutoSize = true;
-            label7.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label7.ForeColor = Color.White;
-            label7.Location = new Point(133, 41);
-            label7.Name = "label7";
-            label7.Size = new Size(75, 21);
-            label7.TabIndex = 3;
-            label7.Text = "Female :";
+            label_female.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            label_female.AutoSize = true;
+            label_female.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label_female.ForeColor = Color.White;
+            label_female.Location = new Point(133, 41);
+            label_female.Name = "label_female";
+            label_female.Size = new Size(75, 21);
+            label_female.TabIndex = 3;
+            label_female.Text = "Female :";
             // 
-            // label6
+            // label_male
             // 
-            label6.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            label6.AutoSize = true;
-            label6.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label6.ForeColor = Color.White;
-            label6.Location = new Point(25, 41);
-            label6.Name = "label6";
-            label6.Size = new Size(57, 21);
-            label6.TabIndex = 2;
-            label6.Text = "Male :";
+            label_male.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            label_male.AutoSize = true;
+            label_male.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label_male.ForeColor = Color.White;
+            label_male.Location = new Point(25, 41);
+            label_male.Name = "label_male";
+            label_male.Size = new Size(57, 21);
+            label_male.TabIndex = 2;
+            label_male.Text = "Male :";
             // 
-            // label5
+            // label_total
             // 
-            label5.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
-            label5.AutoSize = true;
-            label5.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label5.ForeColor = Color.White;
-            label5.Location = new Point(25, 11);
-            label5.Name = "label5";
-            label5.Size = new Size(130, 21);
-            label5.TabIndex = 1;
-            label5.Text = "Total Students :";
+            label_total.Anchor = AnchorStyles.Bottom | AnchorStyles.Left;
+            label_total.AutoSize = true;
+            label_total.Font = new Font("Century Gothic", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
+            label_total.ForeColor = Color.White;
+            label_total.Location = new Point(25, 11);
+            label_total.Name = "label_total";
+            label_total.Size = new Size(130, 21);
+            label_total.TabIndex = 1;
+            label_total.Text = "Total Students :";
             // 
             // panel1
             // 
@@ -549,14 +552,14 @@
             panel1.Dock = DockStyle.Top;
             panel1.Location = new Point(0, 57);
             panel1.Name = "panel1";
-            panel1.Size = new Size(699, 63);
+            panel1.Size = new Size(914, 63);
             panel1.TabIndex = 4;
             // 
             // pictureBox1
             // 
             pictureBox1.Anchor = AnchorStyles.Right;
             pictureBox1.Image = Properties.Resources.Mushroom_1;
-            pictureBox1.Location = new Point(595, 0);
+            pictureBox1.Location = new Point(810, 0);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(100, 63);
             pictureBox1.SizeMode = PictureBoxSizeMode.Zoom;
@@ -613,7 +616,7 @@
             panel5.Dock = DockStyle.Top;
             panel5.Location = new Point(0, 0);
             panel5.Name = "panel5";
-            panel5.Size = new Size(699, 57);
+            panel5.Size = new Size(914, 57);
             panel5.TabIndex = 3;
             // 
             // label11
@@ -631,10 +634,11 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(899, 563);
+            ClientSize = new Size(1114, 549);
             Controls.Add(panel_main);
             Controls.Add(panel_slide);
             Name = "Form1";
+            StartPosition = FormStartPosition.CenterScreen;
             Text = "Form1";
             Load += Form1_Load;
             panel_slide.ResumeLayout(false);
@@ -688,9 +692,9 @@
         private Label label4;
         private Label label_role;
         private Label label_user;
-        private Label label6;
-        private Label label5;
-        private Label label7;
+        private Label label_male;
+        private Label label_total;
+        private Label label_female;
         private Label label10;
         private Label label8;
         private Label label9;
