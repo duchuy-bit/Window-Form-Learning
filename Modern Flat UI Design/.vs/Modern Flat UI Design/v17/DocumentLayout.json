@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|c:\\study\\window-form-learning\\modern flat ui design\\modern flat ui design\\forms\\dashboard_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|solutionrelative:modern flat ui design\\forms\\dashboard_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\modern flat ui design\\forms\\dashboard_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|solutionrelative:modern flat ui design\\forms\\dashboard_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\modern flat ui design\\forms\\dashboard_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|solutionrelative:modern flat ui design\\forms\\dashboard_1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\modern flat ui design\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F22F4D51-162D-498B-BD79-9EC0C75F53B0}|Modern Flat UI Design\\Modern Flat UI Design.csproj|solutionrelative:modern flat ui design\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard_1.cs [Design]",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "RelativeDocumentMoniker": "Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.cs [Design]",
+              "RelativeToolTip": "Modern Flat UI Design\\Forms\\Dashboard_1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:50:37.518Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard_1.Designer.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.Designer.cs",
+              "RelativeDocumentMoniker": "Modern Flat UI Design\\Forms\\Dashboard_1.Designer.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.Designer.cs",
+              "RelativeToolTip": "Modern Flat UI Design\\Forms\\Dashboard_1.Designer.cs",
+              "ViewState": "AQIAAGcAAAAAAAAAAAAowHgAAABfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:37:41.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard_1.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "RelativeDocumentMoniker": "Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "RelativeToolTip": "Modern Flat UI Design\\Forms\\Dashboard_1.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAnwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T09:35:21.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Program.cs",
+              "RelativeDocumentMoniker": "Modern Flat UI Design\\Program.cs",
+              "ToolTip": "C:\\Study\\Window-Form-Learning\\Modern Flat UI Design\\Modern Flat UI Design\\Program.cs",
+              "RelativeToolTip": "Modern Flat UI Design\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T08:56:09.94Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

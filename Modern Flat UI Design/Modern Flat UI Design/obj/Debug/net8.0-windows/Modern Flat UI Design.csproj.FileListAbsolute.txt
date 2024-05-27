@@ -1,0 +1,19 @@
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\bin\Debug\net8.0-windows\Modern Flat UI Design.exe
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\bin\Debug\net8.0-windows\Modern Flat UI Design.deps.json
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\bin\Debug\net8.0-windows\Modern Flat UI Design.runtimeconfig.json
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\bin\Debug\net8.0-windows\Modern Flat UI Design.dll
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\bin\Debug\net8.0-windows\Modern Flat UI Design.pdb
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern_Flat_UI_Design.Form1.resources
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern_Flat_UI_Design.Forms.Dashboard_1.resources
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern_Flat_UI_Design.Properties.Resources.resources
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.csproj.GenerateResource.cache
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.AssemblyInfoInputs.cache
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.AssemblyInfo.cs
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.csproj.CoreCompileInputs.cache
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.sourcelink.json
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.dll
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\refint\Modern Flat UI Design.dll
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.pdb
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\Modern Flat UI Design.genruntimeconfig.cache
+C:\Study\Window-Form-Learning\Modern Flat UI Design\Modern Flat UI Design\obj\Debug\net8.0-windows\ref\Modern Flat UI Design.dll
